@@ -1,0 +1,15 @@
+{
+  "name": "convert-img",
+  "version": "1.0.0",
+  "description": "A tool to optimize and convert images to WebP format",
+  "main": "convert-img.js",
+  "scripts": {
+    "start": "node convert-img.js"
+  },
+  "keywords": ["image", "optimization", "webp", "converter", "sharp"],
+  "author": "Anwar",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.34.1"
+  }
+}
