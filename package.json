@@ -1,5 +1,5 @@
 {
-  "name": "convert-img",
+  "name": "convert-images-webp",
   "version": "1.0.0",
   "description": "A tool to optimize and convert images to WebP format",
   "main": "convert-img.js",

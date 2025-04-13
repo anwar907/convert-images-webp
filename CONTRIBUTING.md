@@ -1,6 +1,6 @@
-# Contributing to Convert-img
+# Contributing to Convert-images-webp
 
-We love your input! We want to make contributing to Convert-img as easy and transparent as possible.
+We love your input! We want to make contributing to Convert-images-webp as easy and transparent as possible.
 
 ## We Develop with Github
 

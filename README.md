@@ -1,4 +1,4 @@
-# Convert-img
+# Convert-imgages-webp
 
 A simple tool to optimize and convert images to WebP format.
 
